@@ -1,5 +1,5 @@
 # Keil-uVision5-DarkTheme-VS
-C/C++ Editor theme for IDE Keil uVision5, inspired by Visual Studio Dark theme.
+C/C++ and Assembly editor theme, for IDE Keil uVision5, inspired by Visual Studio Dark theme.
 
 1. Close Keil uVision5 IDE.
 2. Make a copy of ".../Keil_v5/UV4/global.prop" file, before changing it.
