@@ -59,10 +59,10 @@ edge.column=80
 
 
 # Specification for text selection and caret line
-selection.fore=#FAFA00
-selection.back=#0082C8
+selection.fore=#FFFFFF
+selection.back=#264F78
 caret.fore=#F6F6F4
-caret.back=#393D4F
+caret.back=#202020
 
 # Color for vertical edge
 edge.colour=#012E2E
@@ -96,20 +96,20 @@ style.cpp.86=font:Cascadia Mono,size:11,fore:#696969,back:#333333
 
 
 # Asm Editor files
-font.monospace.asm=Courier New
-style.asm.32=font:Courier New,size:10,fore:#000000,back:#FFFFFF
-style.asm.1=font:Courier New,size:10,fore:#616161,back:#FFFFFF
-style.asm.2=font:Courier New,size:10,fore:#FF0000,back:#FFFFFF
-style.asm.3=font:Courier New,size:10,fore:#7F007F,back:#FFFFFF
-style.asm.4=font:Courier New,size:10,fore:#000000,back:#FFFFFF
-style.asm.5=font:Courier New,size:10,fore:#000000,back:#FFFFFF
-style.asm.6=font:Courier New,size:10,fore:#0000FF,back:#FFFFFF
-style.asm.7=font:Courier New,size:10,fore:#0000FF,back:#FFFFFF
-style.asm.9=font:Courier New,size:10,fore:#0000FF,back:#FFFFFF
-style.asm.10=font:Courier New,size:10,fore:#0000FF,back:#FFFFFF
-style.asm.11=font:Courier New,size:10,fore:#007F00,back:#FFFFFF
-style.asm.12=font:Courier New,size:10,fore:#7F007F,back:#FFFFFF
-style.asm.8=font:Courier New,size:10,fore:#46AA03,back:#FFFFFF
+font.monospace.asm=Cascadia Mono ExtraLight
+style.asm.32=font:Cascadia Mono ExtraLight,size:10,fore:#DCD0B1,back:#202020
+style.asm.1=font:Cascadia Mono ExtraLight,size:10,fore:#57A64A,back:#202020
+style.asm.2=font:Cascadia Mono ExtraLight,size:10,fore:#FF0000,back:#202020
+style.asm.3=font:Cascadia Mono ExtraLight,size:10,fore:#D69D85,back:#202020
+style.asm.4=font:Cascadia Mono ExtraLight,size:10,fore:#EAE400,back:#202020
+style.asm.5=font:Cascadia Mono ExtraLight,size:10,fore:#DCDCDC,back:#202020
+style.asm.6=font:Cascadia Mono ExtraLight,size:10,fore:#D901F1,back:#202020
+style.asm.7=font:Cascadia Mono ExtraLight,size:10,fore:#A801BA,back:#202020
+style.asm.9=font:Cascadia Mono ExtraLight,size:10,fore:#00FFFF,back:#202020
+style.asm.10=font:Cascadia Mono ExtraLight,size:10,fore:#00FFFF,back:#202020
+style.asm.11=font:Cascadia Mono ExtraLight,size:10,fore:#57A64A,back:#202020
+style.asm.12=font:Cascadia Mono ExtraLight,size:10,fore:#D69D85,back:#202020
+style.asm.8=font:Cascadia Mono ExtraLight,size:10,fore:#8C8CFF,back:#202020
 
 
 # Editor Text files
