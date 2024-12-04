@@ -3,7 +3,7 @@ indent.automatic=1
 virtual.space=0
 view.whitespace=0
 view.endofline=0
-code.page=0
+code.page=65001
 caretline.visible=1
 highlight.matchingbraces=1
 print.syntax.coloring=1
@@ -114,6 +114,6 @@ style.asm.8=font:Cascadia Mono ExtraLight,size:10,fore:#8C8CFF,back:#202020
 
 # Editor Text files
 font.monospace.txt=Consolas
-style.txt.32=font:Verdana,size:10,fore:#000000,back:#FFFFFF
+style.txt.32=font:Verdana,size:10,fore:#DCD0B1,back:#202020
 
 
